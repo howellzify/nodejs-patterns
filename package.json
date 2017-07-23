@@ -1,0 +1,23 @@
+{
+  "name": "howellzify-nodejs-patterns",
+  "version": "1.0.0",
+  "description": "Sample project space to store design pattern code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/howellzify/nodejs-patterns.git"
+  },
+  "keywords": [
+    "nodejs",
+    "patterns"
+  ],
+  "author": "Terry Howell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/howellzify/nodejs-patterns/issues"
+  },
+  "homepage": "https://github.com/howellzify/nodejs-patterns#readme"
+}
