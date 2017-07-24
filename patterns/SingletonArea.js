@@ -1,4 +1,4 @@
-//area.js
+//SingletonArea.js
 //Singleton Pattern
 var PI = Math.PI;
 
