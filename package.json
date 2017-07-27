@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/howellzify/nodejs-patterns/issues"
   },
-  "homepage": "https://github.com/howellzify/nodejs-patterns#readme"
+  "homepage": "https://github.com/howellzify/nodejs-patterns#readme",
+  "dependencies": {
+    "string": "^3.3.3"
+  }
 }
